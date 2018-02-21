@@ -95,7 +95,9 @@ text-decoration:none;
 	
 	padding:20px;
 	min-height:500px;
+
 }
+
 table {
 	border-collapse:collapse;
 	border-spacing:0;
@@ -191,8 +193,9 @@ ul.list li img{
 
 
 
-
-
+.pogi{
+	font-color:blue;
+}
 
 h3.m_1{
 	color:#555;
